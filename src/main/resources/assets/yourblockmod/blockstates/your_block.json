@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "yourblockmod:block/your_block"
+    }
+  }
+}

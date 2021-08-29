@@ -1,0 +1,9 @@
+# IDEA files
+/.idea
+
+# Gradle files
+/.gradle
+/build
+
+# Fabric files
+/run
